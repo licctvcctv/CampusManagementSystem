@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV11c411r7Ge
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的校园管理系统，分为管理后台和用户网页端，可以给管理员、普通用户使用，包括院校管理、用户管理、院校管理员、单位管理、通知推送、投票信息、通知回复和系统基础模块，项目编号T026。
 
